@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expeditions-to-mars/static/css/main.86b0554d.css",
+    "main.js": "/expeditions-to-mars/static/js/main.a9a881ca.js",
+    "index.html": "/expeditions-to-mars/index.html",
+    "main.86b0554d.css.map": "/expeditions-to-mars/static/css/main.86b0554d.css.map",
+    "main.a9a881ca.js.map": "/expeditions-to-mars/static/js/main.a9a881ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b0554d.css",
+    "static/js/main.a9a881ca.js"
+  ]
+}
