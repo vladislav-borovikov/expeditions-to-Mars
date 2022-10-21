@@ -12,6 +12,9 @@ const FormBox = styled(Stack)`
     align-items: center !important;
     justify-content: space-between;
   }
+  @media (min-width: 1150px) {
+    justify-content: space-evenly;
+  }
 `;
 
 const FormButton = styled(Button)`
